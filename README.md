@@ -1,5 +1,12 @@
-# Sprint 06 Project
-> Sentiment Analysis on Movies Reviews
+# Products_Review_Classification-PROJ4-AnyoneAI
+
+This is a project part of the Anyone AI program, where are being developing knowledge and hard skills in machine learning, deep learning and artificial intelligence.
+
+Goal: analyze sentiment in product reviews for a movie streaming service.
+
+Manipulated and pre-processed non-traditional data, vectorizing this text data using BoW and TF-IDF. Also, a word embedding was trained and used as the data's vectorization source. Finally, a sentiment analysis model was trained, to detect positive and negative opinions in movie reviews, achieving +0.93 ROC AUC.
+
+This repo has the development of the entire project.
 
 ## Install
 
