@@ -4,8 +4,6 @@ This is a project part of the Anyone AI program, where are being developing know
 
 Goal: analyze sentiment in product reviews for a movie streaming service.
 
-Manipulated and pre-processed non-traditional data, vectorizing this text data using BoW and TF-IDF. Also, a word embedding was trained and used as the data's vectorization source. Finally, a sentiment analysis model was trained, to detect positive and negative opinions in movie reviews, achieving +0.93 ROC AUC.
-
 This repo has the development of the entire project.
 
 ## Install
